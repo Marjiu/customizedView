@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    .
+    .
+    .
+    <string-array name="region_icon_list">
+        <item >@drawable/list_view_region_asia</item>
+        <item >@drawable/list_view_region_america</item>
+        <item >@drawable/list_view_region_europe</item>
+        <item >@drawable/list_view_region_oceania</item>
+    </string-array>
+    ...
+</resources>
